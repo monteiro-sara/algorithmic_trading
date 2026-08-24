@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use, adapt, or build upon this repository, please cite it as below."
+
+title: "Algorithmic Trading"
+type: software
+
+authors:
+  - family-names: "Monteiro"
+    given-names: "Sara"
+
+date-released: "2024"
+
+repository-code: "https://github.com/monteiro-sara/algorithmic_trading"
+url: "https://github.com/monteiro-sara/algorithmic_trading"
+
+license: "CC-BY-4.0"
+
+abstract: >
+  A collection of Python notebooks exploring algorithmic trading,
+  technical market indicators, financial sentiment analysis,
+  stock-price forecasting, risk analysis, and related quantitative
+  data analyses.
+
+keywords:
+  - algorithmic trading
+  - quantitative finance
+  - financial NLP
+  - FinBERT
+  - LSTM
+  - technical analysis
+  - stock market
